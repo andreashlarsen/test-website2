@@ -1,8 +1,6 @@
 ---
 title: Tutorial 1
-layout: pages
-excerpt: "Tutorial 1"
-aside: true
+layout: page
 ---
 
 ## tutorial 1
