@@ -120,17 +120,9 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # 9. Site navigation
 navigation_header:
-- title: Home
-  url: /
-- {title: "Tutorial 1", file: "/tutorial1.md"}
-- title: Tutorial 2
-  file: /tutorial2
-- title: Tutorial 3
-  file: /tutorial3
-- title: About
-  file: /about
-- title: A pdf file
-  file: /pdf_file.pdf
+- {title: "Home", url: "https://andreashlarsen.github.io/test-website2/"}
+- {title: "Tutorial 1", file: "tutorial1.md"}
+- {title: "A pdf file", file: "pdf_file.pdf"}
 
 navigation_footer:
 - title: Created by David Darnes
