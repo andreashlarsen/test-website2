@@ -19,7 +19,6 @@ Here are a few examples of webwites using same template (Alembic):
 
 - [bawejakunal.github.io](https://bawejakunal.github.io/)
 - [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
 
 ### text with code snippet
 
