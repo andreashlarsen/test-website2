@@ -123,13 +123,13 @@ navigation_header:
 - title: Home
   url: /
 - title: Tutorial 1
-  url: /tutorial1/
+  file: /tutorial1/
 - title: Tutorial 2
-  url: /tutorial2/
+  file: /tutorial2/
 - title: Tutorial 3
-  url: /tutorial3/
+  file: /tutorial3/
 - title: About
-  url: /about/
+  file: /about/
 
 navigation_footer:
 - title: Created by David Darnes
