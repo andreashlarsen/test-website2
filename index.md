@@ -9,29 +9,22 @@ excerpt: "Some SAXS and SANS tutorials."
 
 Try the tutorials to learn SAXS and SANS!
 
-## Examples
+## About the webpage setup
 
-### other websites using same template 
+### layout
 
-Here are a few examples of webwites using same template (Alembic):
-
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
+Page was build using the Jekyll ['Alembic template'](https://jekyllthemes.io/theme/alembic):
 
 ### text with code snippet
 
-text with code: `gem "alembic-jekyll-theme"` 
+example text with code: `gem "alembic-jekyll-theme"` 
 
 ### text with a list
 
-a list:    
+example, list:    
 1. first point    
 2. second point    
 3. third point    
-
-### text with a link
-
-text with link: [`my github page`](https://github.com/andraeshlarsen).
 
 ### Github
 
