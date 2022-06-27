@@ -9,7 +9,7 @@ excerpt: "Some SAXS and SANS tutorials."
 
 Try the tutorials to learn SAS
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/andreashlarsen/test-webisite2" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/haahr_larsen" color="#0d94e7" %} 
+{% include button.html text="Fork it" icon="github" link="https://github.com/andreashlarsen/test-webisite2" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/haahr_larsen" color="#0d94e7" %} 
 
 ## Heading 1
 
