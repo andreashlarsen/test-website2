@@ -13,7 +13,7 @@ Try the tutorials to learn SAS
 
 ## Heading 1
 
-### examples 
+### other websites using same template 
 
 Here are a few examples of webwites using same template (Alembic):
 
