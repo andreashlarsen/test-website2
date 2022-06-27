@@ -13,7 +13,7 @@ Try the tutorials to learn SAXS and SANS!
 
 ### layout
 
-Page was build using the Jekyll ['Alembic template'](https://jekyllthemes.io/theme/alembic):
+Webpage was build using the Jekyll ['Alembic template'](https://jekyllthemes.io/theme/alembic):
 
 ### text with code snippet
 
