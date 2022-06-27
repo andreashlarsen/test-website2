@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = "alembic-jekyll-theme"
   spec.version       = "4.1.0"
   spec.authors       = ["Andreas Haahr Larsen"]
-  spec.email         = ["me@daviddarnes.com"]
+  spec.email         = ["andreas.larsen@sund.ku.dk"]
 
   spec.summary       = %q{Website for SAS tutorials.}
   spec.description   = "A website for small-angle X-ray and neutron (SAXS and SANS) tutorials."
