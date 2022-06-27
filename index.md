@@ -21,13 +21,6 @@ Here are a few examples of webwites using same template (Alembic):
 - [case2111.github.io](https://case2111.github.io/)
 - [karateca.org](https://www.karateca.org/)
 
-### fancy logo-link
-
-text with facy logo-style link:
-
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-
 ### text with code snippet
 
 text with code: `gem "alembic-jekyll-theme"` 
